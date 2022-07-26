@@ -1,5 +1,5 @@
 # LazShopPH telegram bot
-### Requirements:
+## Requirements:
 
 pandas==0.25.1
 
@@ -14,14 +14,13 @@ telepot==12.7
 webdriver_manager==3.7.1
 
 
-### Bot info:
+## Bot info:
 
 Token: “5550162390:AAGZM54JbkrmvGhZUMTlBF7L-WVTEMAtpeI”
 
 Telegram Display Name: LazShopPH
 
 Telegram Username: @LazShopPHBot
-
 
 LazShopPH (@LazShopPHbot) is a free Telegram bot that acts as a shopping assistant for Filipino e-shoppers who use the e-commerce platforms Shopee and Lazada. The bot goes through product listings on both e-commerce platforms, saves the product names, prices, and links, and gives the top search results and cheapest finds for whatever product the user searches. 
 
