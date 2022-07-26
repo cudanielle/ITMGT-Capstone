@@ -1,5 +1,5 @@
 # LazShopPH telegram bot
-## Requirements:
+### ***Requirements:***
 
 pandas==0.25.1
 
@@ -14,7 +14,7 @@ telepot==12.7
 webdriver_manager==3.7.1
 
 
-## Bot info:
+### ***Bot info:***
 
 Token: “5550162390:AAGZM54JbkrmvGhZUMTlBF7L-WVTEMAtpeI”
 
