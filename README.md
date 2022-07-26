@@ -1,8 +1,6 @@
 # ITMGT-Capstone
 Requirements:
-
 pandas==0.25.1
-
 requests==2.22.0
 
 selenium==3.141.0
