@@ -1,4 +1,4 @@
-# LazShopPH telegram bot
+# LazShopPH Bot
 ### ***Requirements:***
 
 pandas==0.25.1
