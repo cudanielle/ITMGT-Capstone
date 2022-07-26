@@ -1,4 +1,4 @@
-# ITMGT-Capstone
+# LazShopPH telegram bot
 Requirements:
 
 pandas==0.25.1
